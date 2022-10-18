@@ -1,0 +1,9 @@
+- 👋 Olá, meu nome é Jose Fernando e estou criando esse portfolio para mostrar meu progresso
+- 👀 Sou aluno do colegio Jose Siqueira Rosas - Rosario do Ivai [PR]
+- 🌱 Area com maior foco é a progamação e a criação de jogos usando .pwn e javascript
+- 📫 Jose Fernando 2022 - "Não é a linguagem de programação que define o programador, mas sim sua lógica."
+
+<!---
+JoseFernando22/JoseFernando22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
